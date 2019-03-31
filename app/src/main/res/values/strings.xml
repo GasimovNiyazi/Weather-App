@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Pagination</string>
+    <string name="msg_date">Today,April 1</string>
+    <string name="msg_temp_max">78</string>
+    <string name="msg_temp_min">68</string>
+    <string name="msg_city">Baku,Azerbaijan</string>
+    <string name="msg_weather_description">Clear </string>
+    <string name="msg_days">Monday</string>
+</resources>
